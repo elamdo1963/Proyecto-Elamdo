@@ -1,7 +1,7 @@
-# INFORMACIÓN
-- Autor: Isabella Zuluaga Ocampo
-- Correo: isazuluocampo@gmai.com
-- Repositorio GitLab: https://gitlab.com/IsabellaZuluaga/1dwbe-tale-01/-/tree/master/Project%201%20-%20Isabella 
+﻿# INFORMACIÓN
+- Autor: Eliott Amaya Dominguez
+- Correo: elamdo@gmail.com
+- Repositorio GitLab: https://github.com/elamdo1963/Proyecto-Elamdo.git 
 
 # CÓMO USAR
 
@@ -21,8 +21,8 @@ que se puedan modificar (si no se desea modificar, se debe poner la misma inform
 
 Para iniciar, hay dos usuarios registrados:
 
-1. - email: isazuluocampo@gmail.com
-   - password: isabella123
+1. - email: elamdo@gmail.com
+   - password: elamdo123
    - administrador: NO
 
 2. - email: admin@gmail.com
